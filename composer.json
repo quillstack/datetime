@@ -1,0 +1,34 @@
+{
+    "name": "quillstack/datetime",
+    "description": "A basic library to use a state object of time in PHP.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "datetime",
+        "date",
+        "time",
+        "php8"
+    ],
+    "homepage": "https://quillstack.org/datetime",
+    "authors": [
+        {
+            "name": "Radek Ziemniewicz",
+            "email": "radek@quillstack.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Quillstack\\Datetime\\": "src/",
+            "Quillstack\\Datetime\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "quillstack/unit-tests": "^0.2.16"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.0.x-dev"
+        }
+    }
+}
