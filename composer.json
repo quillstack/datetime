@@ -17,18 +17,21 @@
             "email": "radek@quillstack.org"
         }
     ],
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "quillstack/unit-tests": "^0.4"
+    },
     "autoload": {
         "psr-4": {
             "Quillstack\\Datetime\\": "src/",
             "Quillstack\\Datetime\\Tests\\": "tests/"
         }
     },
-    "require-dev": {
-        "quillstack/unit-tests": "^0.2.16"
-    },
     "extra": {
         "branch-alias": {
-            "dev-main": "1.0.x-dev"
+            "dev-main": "0.1.x-dev"
         }
     }
 }

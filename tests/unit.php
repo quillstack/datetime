@@ -6,4 +6,5 @@ return [
     \Quillstack\Datetime\Tests\Unit\ToString::class,
     \Quillstack\Datetime\Tests\Unit\Now::class,
     \Quillstack\Datetime\Tests\Unit\ConstructException::class,
+    \Quillstack\Datetime\Tests\Unit\SeparateState::class,
 ];
