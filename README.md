@@ -1,6 +1,6 @@
 # Quillstack Datetime
 
-[![Build Status](https://app.travis-ci.com/quillstack/datetime.svg?branch=main)](https://app.travis-ci.com/quillstack/datetime)
+[![Tests](https://github.com/quillstack/datetime/actions/workflows/tests.yml/badge.svg)](https://github.com/quillstack/datetime/actions/workflows/tests.yml)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=quillstack_datetime&metric=coverage)](https://sonarcloud.io/summary/new_code?id=quillstack_datetime)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=quillstack_datetime&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=quillstack_datetime)
 [![StyleCI](https://github.styleci.io/repos/448668877/shield?branch=main)](https://github.styleci.io/repos/448668877?branch=main)
