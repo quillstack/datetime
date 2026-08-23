@@ -10,7 +10,7 @@
         "time",
         "php8"
     ],
-    "homepage": "https://quillstack.org/datetime",
+    "homepage": "https://quillstack.org/packages/datetime",
     "authors": [
         {
             "name": "Radek Ziemniewicz",
